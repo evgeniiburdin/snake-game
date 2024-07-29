@@ -1,0 +1,18 @@
+left_up_corner: "┌"
+up: "───"
+right_up_corner: "┐"
+left: "│"
+right: "│"
+left_down_corner: "└"
+down: "───"
+right_down_corner: "┘"
+snake_body: "███"
+empty: "   "
+apple: "███"
+
+#31-36
+snake_color: "36"
+apple_color: "31"
+
+#10-50 recommended
+field_size: 13
