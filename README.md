@@ -37,7 +37,7 @@ To run this game, you need to have Go installed. You can download it from [the o
 4. Run the game:
 
     ```bash
-    ./snake
+    ./snake-game
     ```
 
 ## 🍎 Configuration
