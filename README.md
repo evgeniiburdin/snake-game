@@ -17,7 +17,7 @@ To run this game, you need to have Go installed. You can download it from [the o
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/<your-username>/<repository-name>.git
+    git clone https://github.com/evgeniiburdin/snake-game.git
    cd snake-game
     ```
 
